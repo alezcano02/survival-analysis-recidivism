@@ -1,0 +1,6 @@
+jupyter
+lifelines
+matplotlib
+numpy
+pandas
+seaborn
